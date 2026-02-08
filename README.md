@@ -13,7 +13,7 @@ Currently working with the MERN stack and improving problem-solving skills.
 - MongoDB, Git
 
 
-<img src= ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amannv&show_icons=true&count_private=true)>
+<img src="https://github-readme-stats.vercel.app/api?username=amannv&show_icons=true&count_private=true" />
 
 
 Learning by building.
